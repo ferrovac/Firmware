@@ -1,2 +1,2 @@
 # Firmware
-We are working on publishing all our firmwares here. This is a work in progress.
+We are working on publishing all our firmware here. This is a work in progress.
